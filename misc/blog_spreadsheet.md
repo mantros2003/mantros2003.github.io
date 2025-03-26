@@ -6,3 +6,5 @@ Because I have to build a spreadsheet in one of my courses. However, I wish to c
 
 ## Why blog
 I am writing a blog to better organize what I learn during this project. Also, I hope this helps me in improving my writing skills.
+
+[Next: Cell](blog_cell.md)
